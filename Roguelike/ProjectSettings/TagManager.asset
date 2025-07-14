@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - NPC
+  - 
+  - Room
+  - PlayerWeapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2292546601
+    locked: 0
+  - name: Something
+    uniqueID: 4280003641
+    locked: 0
+  - name: Instances
+    uniqueID: 1979976145
+    locked: 0
+  - name: Player
+    uniqueID: 2165437083
+    locked: 0
+  - name: NPC
+    uniqueID: 3372322441
+    locked: 0
+  - name: Enemy
+    uniqueID: 138236263
+    locked: 0
+  - name: Dool
+    uniqueID: 3610388159
+    locked: 0
