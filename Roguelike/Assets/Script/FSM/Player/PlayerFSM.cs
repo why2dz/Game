@@ -5,8 +5,7 @@ using UnityEngine;
 [System.Serializable]
 public class Parameter
 {
-    public int MoveX;
-    public int MoveY;
+    
 
 }
 public class PlayerFSM : Character
